@@ -1,2 +1,4 @@
 mi practica 1
 materia desarrolo de sitema 1
+
+MI SEUNDA PRUEBA DE COMO ACTUALIZA EL DOCUMETNO UNA VEZ ENVIADO 
