@@ -1,0 +1,20 @@
+C:\Users\Usuuario2\source\repos\AppEscritorio\AppEscritorio\bin\Debug\AppEscritorio.exe.config
+C:\Users\Usuuario2\source\repos\AppEscritorio\AppEscritorio\bin\Debug\AppEscritorio.exe
+C:\Users\Usuuario2\source\repos\AppEscritorio\AppEscritorio\bin\Debug\AppEscritorio.pdb
+C:\Users\Usuuario2\source\repos\AppEscritorio\AppEscritorio\obj\Debug\AppEscritorio.csproj.AssemblyReference.cache
+C:\Users\Usuuario2\source\repos\AppEscritorio\AppEscritorio\obj\Debug\AppEscritorio.Properties.Resources.resources
+C:\Users\Usuuario2\source\repos\AppEscritorio\AppEscritorio\obj\Debug\AppEscritorio.csproj.GenerateResource.cache
+C:\Users\Usuuario2\source\repos\AppEscritorio\AppEscritorio\obj\Debug\AppEscritorio.csproj.CoreCompileInputs.cache
+C:\Users\Usuuario2\source\repos\AppEscritorio\AppEscritorio\obj\Debug\AppEscritorio.exe
+C:\Users\Usuuario2\source\repos\AppEscritorio\AppEscritorio\obj\Debug\AppEscritorio.pdb
+C:\Users\Usuuario2\source\repos\AppEscritorio\AppEscritorio\obj\Debug\AppEscritorio.Form1.resources
+C:\Users\winston\Desktop\desarrollo web I\AppEscritorio\AppEscritorio\bin\Debug\AppEscritorio.exe.config
+C:\Users\winston\Desktop\desarrollo web I\AppEscritorio\AppEscritorio\bin\Debug\AppEscritorio.exe
+C:\Users\winston\Desktop\desarrollo web I\AppEscritorio\AppEscritorio\bin\Debug\AppEscritorio.pdb
+C:\Users\winston\Desktop\desarrollo web I\AppEscritorio\AppEscritorio\obj\Debug\AppEscritorio.csproj.AssemblyReference.cache
+C:\Users\winston\Desktop\desarrollo web I\AppEscritorio\AppEscritorio\obj\Debug\AppEscritorio.Form1.resources
+C:\Users\winston\Desktop\desarrollo web I\AppEscritorio\AppEscritorio\obj\Debug\AppEscritorio.Properties.Resources.resources
+C:\Users\winston\Desktop\desarrollo web I\AppEscritorio\AppEscritorio\obj\Debug\AppEscritorio.csproj.GenerateResource.cache
+C:\Users\winston\Desktop\desarrollo web I\AppEscritorio\AppEscritorio\obj\Debug\AppEscritorio.csproj.CoreCompileInputs.cache
+C:\Users\winston\Desktop\desarrollo web I\AppEscritorio\AppEscritorio\obj\Debug\AppEscritorio.exe
+C:\Users\winston\Desktop\desarrollo web I\AppEscritorio\AppEscritorio\obj\Debug\AppEscritorio.pdb

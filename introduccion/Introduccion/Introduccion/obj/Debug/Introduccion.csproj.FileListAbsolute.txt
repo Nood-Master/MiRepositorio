@@ -1,0 +1,14 @@
+C:\Users\Usuuario2\source\repos\Introduccion\Introduccion\bin\Debug\Introduccion.exe.config
+C:\Users\Usuuario2\source\repos\Introduccion\Introduccion\bin\Debug\Introduccion.exe
+C:\Users\Usuuario2\source\repos\Introduccion\Introduccion\bin\Debug\Introduccion.pdb
+C:\Users\Usuuario2\source\repos\Introduccion\Introduccion\obj\Debug\Introduccion.csproj.AssemblyReference.cache
+C:\Users\Usuuario2\source\repos\Introduccion\Introduccion\obj\Debug\Introduccion.csproj.CoreCompileInputs.cache
+C:\Users\Usuuario2\source\repos\Introduccion\Introduccion\obj\Debug\Introduccion.exe
+C:\Users\Usuuario2\source\repos\Introduccion\Introduccion\obj\Debug\Introduccion.pdb
+C:\Emanuel Balcazar\UPDS\PROGRAMACION WEB1 ROMAN\proyecto de ingeniero\Introduccion\Introduccion\bin\Debug\Introduccion.exe.config
+C:\Emanuel Balcazar\UPDS\PROGRAMACION WEB1 ROMAN\proyecto de ingeniero\Introduccion\Introduccion\bin\Debug\Introduccion.exe
+C:\Emanuel Balcazar\UPDS\PROGRAMACION WEB1 ROMAN\proyecto de ingeniero\Introduccion\Introduccion\bin\Debug\Introduccion.pdb
+C:\Emanuel Balcazar\UPDS\PROGRAMACION WEB1 ROMAN\proyecto de ingeniero\Introduccion\Introduccion\obj\Debug\Introduccion.csproj.AssemblyReference.cache
+C:\Emanuel Balcazar\UPDS\PROGRAMACION WEB1 ROMAN\proyecto de ingeniero\Introduccion\Introduccion\obj\Debug\Introduccion.csproj.CoreCompileInputs.cache
+C:\Emanuel Balcazar\UPDS\PROGRAMACION WEB1 ROMAN\proyecto de ingeniero\Introduccion\Introduccion\obj\Debug\Introduccion.exe
+C:\Emanuel Balcazar\UPDS\PROGRAMACION WEB1 ROMAN\proyecto de ingeniero\Introduccion\Introduccion\obj\Debug\Introduccion.pdb

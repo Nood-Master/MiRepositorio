@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "WebHelloWord.Controllers.VectorController",
+    "Method": "CalcularPromedio",
+    "RelativePath": "api/Vector/CalcularPromedio",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vector",
+        "Type": "System.Collections.Generic.List\u00601[[System.Decimal, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebHelloWord.Controllers.VectorController",
+    "Method": "ContarImpares",
+    "RelativePath": "api/Vector/ContarImpares",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vector",
+        "Type": "System.Collections.Generic.List\u00601[[System.Decimal, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebHelloWord.Controllers.VectorController",
+    "Method": "ContarPares",
+    "RelativePath": "api/Vector/ContarPares",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vector",
+        "Type": "System.Collections.Generic.List\u00601[[System.Decimal, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebHelloWord.Controllers.VectorController",
+    "Method": "FrecuenciaI",
+    "RelativePath": "api/Vector/FrecuenciaI",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "WebHelloWord.Parametros.ParamFrecuencia",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebHelloWord.Controllers.VectorController",
+    "Method": "Get",
+    "RelativePath": "api/Vector/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

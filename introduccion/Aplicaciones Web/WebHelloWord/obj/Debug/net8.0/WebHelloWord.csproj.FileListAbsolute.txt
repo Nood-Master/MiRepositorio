@@ -1,0 +1,104 @@
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\bin\Debug\net8.0\WebHelloWord.exe
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\bin\Debug\net8.0\WebHelloWord.deps.json
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\bin\Debug\net8.0\WebHelloWord.runtimeconfig.json
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\bin\Debug\net8.0\WebHelloWord.dll
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\bin\Debug\net8.0\WebHelloWord.pdb
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\obj\Debug\net8.0\WebHelloWord.csproj.AssemblyReference.cache
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\obj\Debug\net8.0\WebHelloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\obj\Debug\net8.0\WebHelloWord.AssemblyInfoInputs.cache
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\obj\Debug\net8.0\WebHelloWord.AssemblyInfo.cs
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\obj\Debug\net8.0\WebHelloWord.csproj.CoreCompileInputs.cache
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\obj\Debug\net8.0\WebHelloWord.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\obj\Debug\net8.0\WebHelloWord.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\obj\Debug\net8.0\staticwebassets\msbuild.WebHelloWord.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\obj\Debug\net8.0\staticwebassets\msbuild.build.WebHelloWord.props
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebHelloWord.props
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebHelloWord.props
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\obj\Debug\net8.0\scopedcss\bundle\WebHelloWord.styles.css
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\obj\Debug\net8.0\WebHello.E7531A87.Up2Date
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\obj\Debug\net8.0\WebHelloWord.dll
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\obj\Debug\net8.0\refint\WebHelloWord.dll
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\obj\Debug\net8.0\WebHelloWord.pdb
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\obj\Debug\net8.0\WebHelloWord.genruntimeconfig.cache
+C:\Users\Usuuario2\source\repos\WebHelloWord\WebHelloWord\obj\Debug\net8.0\ref\WebHelloWord.dll
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\bin\Debug\net8.0\appsettings.json
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\bin\Debug\net8.0\WebHelloWord.staticwebassets.endpoints.json
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\bin\Debug\net8.0\WebHelloWord.exe
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\bin\Debug\net8.0\WebHelloWord.deps.json
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\bin\Debug\net8.0\WebHelloWord.runtimeconfig.json
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\bin\Debug\net8.0\WebHelloWord.dll
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\bin\Debug\net8.0\WebHelloWord.pdb
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\obj\Debug\net8.0\WebHelloWord.csproj.AssemblyReference.cache
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\obj\Debug\net8.0\WebHelloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\obj\Debug\net8.0\WebHelloWord.AssemblyInfoInputs.cache
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\obj\Debug\net8.0\WebHelloWord.AssemblyInfo.cs
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\obj\Debug\net8.0\WebHelloWord.csproj.CoreCompileInputs.cache
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\obj\Debug\net8.0\WebHelloWord.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\obj\Debug\net8.0\WebHelloWord.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\obj\Debug\net8.0\scopedcss\bundle\WebHelloWord.styles.css
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\obj\Debug\net8.0\WebHello.E7531A87.Up2Date
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\obj\Debug\net8.0\WebHelloWord.dll
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\obj\Debug\net8.0\refint\WebHelloWord.dll
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\obj\Debug\net8.0\WebHelloWord.pdb
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\obj\Debug\net8.0\WebHelloWord.genruntimeconfig.cache
+C:\Users\winston\Desktop\desarrollo web I\WebHelloWord\WebHelloWord\obj\Debug\net8.0\ref\WebHelloWord.dll
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\bin\Debug\net8.0\appsettings.json
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\bin\Debug\net8.0\WebHelloWord.staticwebassets.endpoints.json
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\bin\Debug\net8.0\WebHelloWord.exe
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\bin\Debug\net8.0\WebHelloWord.deps.json
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\bin\Debug\net8.0\WebHelloWord.runtimeconfig.json
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\bin\Debug\net8.0\WebHelloWord.dll
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\bin\Debug\net8.0\WebHelloWord.pdb
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\obj\Debug\net8.0\WebHelloWord.csproj.AssemblyReference.cache
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\obj\Debug\net8.0\WebHelloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\obj\Debug\net8.0\WebHelloWord.AssemblyInfoInputs.cache
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\obj\Debug\net8.0\WebHelloWord.AssemblyInfo.cs
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\obj\Debug\net8.0\WebHelloWord.csproj.CoreCompileInputs.cache
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\obj\Debug\net8.0\WebHelloWord.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\obj\Debug\net8.0\WebHelloWord.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\obj\Debug\net8.0\scopedcss\bundle\WebHelloWord.styles.css
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\obj\Debug\net8.0\WebHello.E7531A87.Up2Date
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\obj\Debug\net8.0\WebHelloWord.dll
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\obj\Debug\net8.0\refint\WebHelloWord.dll
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\obj\Debug\net8.0\WebHelloWord.pdb
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\obj\Debug\net8.0\WebHelloWord.genruntimeconfig.cache
+C:\Users\winston\Desktop\desarrollo web I\Aplicaciones Web\WebHelloWord\obj\Debug\net8.0\ref\WebHelloWord.dll
